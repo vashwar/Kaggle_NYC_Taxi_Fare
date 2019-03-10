@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\kaggle_Data\\new-york-city-taxi-fare-prediction\\tf-model3\\model_.ckpt"
+all_model_checkpoint_paths: "D:\\kaggle_Data\\new-york-city-taxi-fare-prediction\\tf-model3\\model_.ckpt"
