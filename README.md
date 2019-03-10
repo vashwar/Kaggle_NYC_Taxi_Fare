@@ -1,6 +1,7 @@
 # Kaggle_NYC_Taxi_Fare
 Introduction:
-            This is a simple DNN based model to predict the Taxi Fare in NYC. The dataset used for this is available in Kaggle Competetion.The DNN is implemented using tensorflow. This is a very simple without detailed optimization and feature engineering. The model can be easily trained in any laptop.The code presented here is for interference of the model.
+            This is a simple DNN based model to predict the Taxi Fare in NYC. The dataset used for this is available in Kaggle Competetion.The DNN is implemented using tensorflow. This is a very simple without detailed optimization and feature engineering. The model can be easily trained in any laptop.The code presented here is for interference of the model.The condition details can be found here:https://www.kaggle.com/c/new-york-city-taxi-fare-prediction#evaluation.
+            
        
 # Model Description:
 # Input to the Model:
@@ -21,7 +22,7 @@ Introduction:
                   14)Herv_Dist: Distance between beginning and end of the ride using Haversine formula.The details of the formula are here:
                   https://en.wikipedia.org/wiki/Haversine_formula
       
- #DNN Model:
+#DNN Model:
             Number of Layers: 8
             Numbers of neurons in the hidden layers are 2000,1000,500,250,125,50,25,10 respectively.
             Activation function used:RELU
